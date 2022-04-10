@@ -1,0 +1,2 @@
+- this is to test if i can sync pages both ways via [[github]].
+-
